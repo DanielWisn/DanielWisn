@@ -1,5 +1,11 @@
 # Hi there 👋 I'm Daniel Wiśniewski
 
+### About me
+
+I'm a back-end developer specializing in Java.
+
+Warsaw, Poland
+
 ### Tech Stack
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
