@@ -4,7 +4,7 @@
 
 I'm a back-end developer specializing in Java.
 
-Warsaw, Poland
+📍 Warsaw, Poland
 
 ### Tech Stack
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -14,6 +14,10 @@ Warsaw, Poland
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#)
+
+### Most used languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWisn&layout=compact&theme=dark&hide=TypeScript)
 
 ### 🔭 I’m currently working on 
 https://github.com/DanielWisn/Real-time-leaderboard
