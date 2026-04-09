@@ -15,10 +15,6 @@ I'm a back-end developer specializing in Java.
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#)
 
-### Most used languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWisn&layout=compact&theme=dark&hide=TypeScript)
-
 ### 🔭 I’m currently working on 
 https://github.com/DanielWisn/Real-time-leaderboard
 
